@@ -1,5 +1,5 @@
 // import logo from "image path.png"
-import logo from "../images/antonio-minion.jpeg"
+import logo from "../images/antonio-minion.png"
 
 export default function Header(){
     return(
