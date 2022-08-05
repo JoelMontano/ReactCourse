@@ -10,7 +10,7 @@ export default function Header(){
             <ul className="nav--items">
                     <li className="first">About</li>
                     <li>Projects</li>
-                    <li className="last">Contact Me</li>
+                    <li className="last">Contact</li>
                 </ul>
             </nav>
         </header>
@@ -18,4 +18,4 @@ export default function Header(){
 }
 
 
-//<img src={logo}>
+//testing to see if github token still works lol 
